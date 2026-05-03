@@ -1,0 +1,67 @@
+vocabulary:
+  name: Shenandoah Telecommunications Vocabulary
+  description: Domain vocabulary for Shenandoah Telecommunications (Shentel) broadband, fiber, and telecom services.
+  version: '1.0'
+  created: '2026-05-02'
+  modified: '2026-05-02'
+  terms:
+    - term: Glo Fiber
+      definition: Shentel's fiber optic broadband brand offering residential and business high-speed internet, TV streaming, and phone services via fiber to the home.
+      category: Brand
+      tags:
+        - Fiber Optic
+        - Brand
+    - term: Glo Fiber Business
+      definition: Shentel's commercial fiber optic brand providing dedicated internet access, Ethernet services, managed network services, and network security to business customers.
+      category: Brand
+      tags:
+        - Fiber Optic
+        - Business
+    - term: Dark Fiber
+      definition: Unused optical fiber leased to enterprise and carrier customers who operate their own networking equipment over Shentel's fiber infrastructure.
+      category: Services
+      tags:
+        - Fiber Optic
+        - Enterprise
+    - term: Dedicated Internet Access (DIA)
+      definition: Business-grade internet service providing a dedicated, unshared fiber connection with symmetrical speeds and guaranteed SLAs.
+      category: Services
+      tags:
+        - Internet
+        - Business
+    - term: MEF-Certified Network
+      definition: Shentel's fiber network certified by the Metro Ethernet Forum (MEF) for carrier-grade Ethernet services meeting international performance standards.
+      category: Network
+      tags:
+        - Network
+        - Certification
+    - term: Wavelength Services
+      definition: High-capacity optical transport services over Shentel's fiber network allowing enterprise customers to transmit large data volumes at wavelength-level bandwidth.
+      category: Services
+      tags:
+        - Fiber Optic
+        - Enterprise
+    - term: Hybrid Fiber Coaxial (HFC)
+      definition: Shentel's cable internet delivery technology combining fiber optic backbone with coaxial cable for last-mile residential broadband under the Shentel brand.
+      category: Technology
+      tags:
+        - Internet
+        - Infrastructure
+    - term: DSL
+      definition: Digital Subscriber Line telephone and internet service provided by Shentel over legacy copper phone lines in rural service territories.
+      category: Technology
+      tags:
+        - Internet
+        - Legacy
+    - term: Managed Network Services
+      definition: Shentel-operated networking services where business customers outsource network management, monitoring, and maintenance to Shentel's team.
+      category: Services
+      tags:
+        - Managed Services
+        - Business
+    - term: SHEN
+      definition: NASDAQ stock ticker symbol for Shenandoah Telecommunications Company.
+      category: Finance
+      tags:
+        - Finance
+        - Public Company

@@ -1,0 +1,71 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "schema": "https://schema.org/",
+    "shentel": "https://api-evangelist.github.io/shenandoah-telecommunications/vocab#",
+    "name": "schema:name",
+    "description": "schema:description",
+    "url": "schema:url",
+    "identifier": "schema:identifier",
+    "InternetService": {
+      "@id": "schema:Service",
+      "@type": "@id"
+    },
+    "serviceType": {
+      "@id": "schema:serviceType",
+      "@type": "schema:Text"
+    },
+    "downloadSpeed": {
+      "@id": "shentel:downloadSpeed",
+      "@type": "schema:QuantitativeValue"
+    },
+    "uploadSpeed": {
+      "@id": "shentel:uploadSpeed",
+      "@type": "schema:QuantitativeValue"
+    },
+    "ServiceArea": {
+      "@id": "schema:GeoShape",
+      "@type": "@id"
+    },
+    "serviceRegion": {
+      "@id": "schema:areaServed",
+      "@type": "schema:Text"
+    },
+    "fiberRoute": {
+      "@id": "shentel:fiberRoute",
+      "@type": "schema:Text"
+    },
+    "routeMiles": {
+      "@id": "shentel:routeMiles",
+      "@type": "schema:Number"
+    },
+    "BusinessAccount": {
+      "@id": "schema:Organization",
+      "@type": "@id"
+    },
+    "accountId": {
+      "@id": "schema:identifier",
+      "@type": "schema:Text"
+    },
+    "serviceAddress": {
+      "@id": "schema:address",
+      "@type": "schema:PostalAddress"
+    },
+    "NetworkService": {
+      "@id": "schema:Service",
+      "@type": "@id"
+    },
+    "bandwidth": {
+      "@id": "shentel:bandwidth",
+      "@type": "schema:QuantitativeValue"
+    },
+    "slaUptime": {
+      "@id": "shentel:slaUptime",
+      "@type": "schema:Number"
+    },
+    "mefCertified": {
+      "@id": "shentel:mefCertified",
+      "@type": "schema:Boolean"
+    }
+  }
+}
