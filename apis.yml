@@ -7,7 +7,7 @@ tags:
   - Fiber Optic
   - Internet Service Provider
   - Telecommunications
-type: Contract
+kind: contract
 image: https://www.shentel.com/content/dam/shentel/shentel-logo.svg
 access: 3rd-Party
 created: '2025-01-01'
