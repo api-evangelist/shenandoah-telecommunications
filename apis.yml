@@ -30,6 +30,8 @@ maintainers:
     email: kin@apievangelist.com
 specificationVersion: '0.19'
 common:
+  - type: DomainSecurity
+    url: security/shenandoah-telecommunications-domain-security.yml
   - url: https://www.shentel.com
     type: Website
   - url: https://www.glofiber.com
@@ -42,3 +44,5 @@ common:
     type: Business Services
   - url: https://www.linkedin.com/company/shentel
     type: LinkedIn
+  - url: https://www.glofiber.com/en/blog
+    type: Blog
