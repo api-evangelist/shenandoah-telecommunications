@@ -8,6 +8,17 @@ tags:
   - Internet Service Provider
   - Telecommunications
 kind: contract
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 image: https://www.shentel.com/content/dam/shentel/shentel-logo.svg
 access: 3rd-Party
 created: '2025-01-01'
