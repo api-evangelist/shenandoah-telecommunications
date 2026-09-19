@@ -4,6 +4,11 @@ apis: []
 name: Shenandoah Telecommunications
 tags:
   - Broadband
+  - Fiber Optics
+  - Internet Service Provider
+  - Telecommunications
+tags_raw:
+  - Broadband
   - Fiber Optic
   - Internet Service Provider
   - Telecommunications
